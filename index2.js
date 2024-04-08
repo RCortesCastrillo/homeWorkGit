@@ -5,3 +5,11 @@ function laCajaDePandora(numero){
         return numero.toString(16);
         }
     }
+
+function personalInfo() {
+    return {
+    name: "Fernanda Olivares",
+    age: "35",
+    nationality: "Chilean"
+    };
+    }
