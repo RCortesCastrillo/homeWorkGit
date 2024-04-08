@@ -1,12 +1,16 @@
 
 function laCajaDePandora(numero){
+    // proximamente escribiremos codigo aqui
+    "Henry 2024"
 
-    if (numero % 2 === 0) {
-        return numero.toString(2);
-        } else {
-        return numero.toString(16);
-        }
     }
+
+ function presentacion(){
+    "Victor Alfonso Sepulveda"
+    "38 años"
+    "Colombiano"
+ }   
+
 
 function personalInfo() {
     return {
