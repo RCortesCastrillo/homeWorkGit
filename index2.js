@@ -4,8 +4,8 @@ function laCajaDePandora(numero){
 
     }
 
-    {
-        "victor alfonso sepulveda"
-        "38 años"
-        "colombiano"
-    }
+ function presentacion(){
+    "Victor Alfonso Sepulveda"
+    "38 años"
+    "Colombiano"
+ }   
