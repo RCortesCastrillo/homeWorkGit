@@ -1,18 +1,19 @@
 
 function laCajaDePandora(numero){
-    // proximamente escribiremos codigo aqui
 
-    //soy Raul del grupo 5
-    const sopa= 578;
-
+    if (numero % 2 === 0) {
+        return numero.toString(2);
+        } else {
+        return numero.toString(16);
+        }
     }
 
-
-
-    {
-        'Raul Cortes Castrillo'
-        24
-        Mexico 
+function personalInfo() {
+    return {
+    name: "Fernanda Olivares",
+    age: "35",
+    nationality: "Chilean"
+    };
     }
-    
+
 
