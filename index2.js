@@ -1,5 +1,5 @@
 function laCajaDePandora(numero){
     // proximamente escribiremos codigo aqui
-    "Hola mundo"
+    "Henry 2024"
 
     }
